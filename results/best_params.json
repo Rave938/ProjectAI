@@ -1,0 +1,10 @@
+{
+  "best_model": "MLP",
+  "best_params": {
+    "alpha": 0.001,
+    "hidden_layer_sizes": [
+      200
+    ]
+  },
+  "validation_macro_f1": 0.9428110296422763
+}
